@@ -25,4 +25,3 @@
 - 🔭 Estou trabalhando na Central de Recursos Computacionais da PUC Minas - Praça da Liberdade
 - ☕ C#, Html, CSS, Javascript
 - 🧑‍🎓 Sou aluno de Sistemas de Informação, cursando o 2° período.
-- 💬 Estou interessado em propostas de estágio na área do desenvolvimento.
